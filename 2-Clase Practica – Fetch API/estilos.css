@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-image: url("datos/img/Platanolandia-03.jpg");
+    background-size: cover;
+}
+h1{
+    color: rgb(11, 124, 11);
+    text-shadow: 2px 2px rgb(240, 227, 51);
+    font-family: fantasy;
+}
+
+h1:hover{
+    transition: all .2s ease-in-out;
+    transform:scale(1.4);
+    text-shadow: 4px 4px rgb(240, 227, 51);
+}
+
+h2{
+    color: rgb(11, 94, 9);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+    font-size: 20pt;
+}
+table {
+    text-align: left;
+    margin-top: 100px;
+}
+
+

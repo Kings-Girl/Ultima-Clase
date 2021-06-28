@@ -1,0 +1,9 @@
+{
+    "comentarios":[
+        {"id": "MP2M", "nombre": "Membresía Platanito", "plazo": "2 mes", "anualidad": "40$ al mes"},
+        {"id": "MT4M", "nombre": "Membresía Toston", "plazo": "4 meses", "anualidad": "80$ al mes"},
+        {"id": "MSP6M", "nombre": "Membresía Super Platanito", "plazo": "6 meses", "anualidad": "100$"},
+        {"id": "MST8M", "nombre": "Membresía Super Toston", "plazo": "8 meses", "anualidad": "120$"},
+        {"id": "MMP12M", "nombre": "Membresía Mr. Plátano", "plazo": "12 meses", "anualidad": "300$"}
+    ]
+}
